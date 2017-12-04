@@ -1,0 +1,166 @@
+fileFormatVersion: 2
+guid: 531cbae32716c4bccbbcfebf26ce8694
+timeCreated: 1497136088
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: eyebrow008Mesh
+    100004: eyelashes03Mesh
+    100006: fedora_cockedMesh
+    100008: fedoraMesh
+    100010: high-polyMesh
+    100012: mAnkleLeft
+    100014: mAnkleRight
+    100016: mChest
+    100018: mCollarLeft
+    100020: mCollarRight
+    100022: mElbowLeft
+    100024: mElbowRight
+    100026: mEyeLeft
+    100028: mEyeRight
+    100030: mFootLeft
+    100032: mFootRight
+    100034: mHead
+    100036: mHipLeft
+    100038: mHipRight
+    100040: mKneeLeft
+    100042: mKneeRight
+    100044: mNeck
+    100046: mPelvis
+    100048: mShoulderLeft
+    100050: mShoulderRight
+    100052: mSkull
+    100054: mToeLeft
+    100056: mToeRight
+    100058: mTorso
+    100060: mWristLeft
+    100062: mWristRight
+    100064: python
+    100066: pythonMesh
+    100068: shoes01_lresMesh
+    100070: tongue01Mesh
+    400000: //RootNode
+    400002: eyebrow008Mesh
+    400004: eyelashes03Mesh
+    400006: fedora_cockedMesh
+    400008: fedoraMesh
+    400010: high-polyMesh
+    400012: mAnkleLeft
+    400014: mAnkleRight
+    400016: mChest
+    400018: mCollarLeft
+    400020: mCollarRight
+    400022: mElbowLeft
+    400024: mElbowRight
+    400026: mEyeLeft
+    400028: mEyeRight
+    400030: mFootLeft
+    400032: mFootRight
+    400034: mHead
+    400036: mHipLeft
+    400038: mHipRight
+    400040: mKneeLeft
+    400042: mKneeRight
+    400044: mNeck
+    400046: mPelvis
+    400048: mShoulderLeft
+    400050: mShoulderRight
+    400052: mSkull
+    400054: mToeLeft
+    400056: mToeRight
+    400058: mTorso
+    400060: mWristLeft
+    400062: mWristRight
+    400064: python
+    400066: pythonMesh
+    400068: shoes01_lresMesh
+    400070: tongue01Mesh
+    4300000: pythonMesh
+    4300002: high-polyMesh
+    4300004: eyebrow008Mesh
+    4300006: eyelashes03Mesh
+    4300008: tongue01Mesh
+    4300010: shoes01_lresMesh
+    4300012: fedoraMesh
+    4300014: fedora_cockedMesh
+    9500000: //RootNode
+    13700000: eyebrow008Mesh
+    13700002: eyelashes03Mesh
+    13700004: fedora_cockedMesh
+    13700006: fedoraMesh
+    13700008: high-polyMesh
+    13700010: pythonMesh
+    13700012: shoes01_lresMesh
+    13700014: tongue01Mesh
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
